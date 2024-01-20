@@ -1,1 +1,2 @@
 This is FileB.
+One simple change
